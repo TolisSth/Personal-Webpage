@@ -1,7 +1,7 @@
 ---
 title: "DAS"
 date: 2023-01-28T17:40:44+02:00
-draft: true
+draft: false 
 ---
 Development Assistant Script or else DAS is a simple script that will help *YOU* the developer download a variety of tools for the language that you develop on, much easier and faster. These tools will be a compiler or interpeter (depends on the language) and an editor or a full blown IDE in some cases.
 

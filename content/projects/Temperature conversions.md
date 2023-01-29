@@ -1,7 +1,7 @@
 ---
 title: "Temperature Conversions"
 date: 2023-01-28T17:56:28+02:00
-draft: true
+draft: false 
 ---
 This program was made for my third semester java class. It's a simple temperature conversions app. It can handle:
 * Celsius to Fahrenheit
