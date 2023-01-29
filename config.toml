@@ -9,6 +9,7 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+disableComments = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
