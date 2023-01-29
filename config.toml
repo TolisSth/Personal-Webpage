@@ -1,4 +1,4 @@
-baseURL = 'https://tolisdev.com/'
+baseURL = 'https://tolisdev.com'
 languageCode = 'en-us'
 title = 'Tolisdev'
 theme = 'hugo-coder'
