@@ -4,6 +4,7 @@ title = 'Tolisdev'
 theme = 'hugo-coder'
 #lol
 paginate = 20
+googleAnalytics = 'G-DMNNB85H6Y'
 
 pygmentsstyle = "bw"
 pygmentscodefences = true
