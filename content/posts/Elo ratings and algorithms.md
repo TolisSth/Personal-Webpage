@@ -71,3 +71,11 @@ Once again, nothing fancy.
 
 # Epilogue 
 In conclusion the field of chess rating's is diverse with lots of algorithms and variations of them, but I hope that this article unclouded your vision and sparked a flame of curiosity about the subject. In the coming days or months I might do an article about the vast field of IQ rating systems, because yes that is a reality, so stay tuned on this site.
+
+# Sources: 
+https://en.wikipedia.org/wiki/Elo_rating_system
+
+https://www.cantorsparadise.com/the-mathematics-of-elo-ratings-b6bfc9ca1dba
+
+https://en.wikipedia.org/wiki/Arpad_Elo
+
