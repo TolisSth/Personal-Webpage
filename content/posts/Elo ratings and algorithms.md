@@ -12,7 +12,7 @@ disableComments = true
 math = true
 series = []
 +++
-# Elo rating and algorithms
+# A reasonable question... 
 So you won, you won a 27 move game with an extraordinary checkmate, your opponent is devastated, your ego is inflating and your elo is rising. Elo? Who made up that weird name? Why is your rating system called like that? If you are thinking these questions, all I can say is that I was in the same place as you. Turns out, Elo was a real person, Elo or Arpad Emmerich Elo was a Hungarian-American physics professor with a soft spot for chess, like you and me. He created the elo rating system that replaced the Harkness rating system that was used from 1950 to 1960, his system is now used in chess federations around the world including the famous FIDE federation. But why would I randomly start talking about a rating system? Because my dear reader, a rating system is nothing but an algorithm and do you know who is good with algorithms? Computers ofcourse. so let's dive in. 
 
 
