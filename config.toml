@@ -14,7 +14,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "Apostolos Halis"
-  info = "I like computers (a lot)."
+  info = "I like computers (a lot)"
   description = "Apostolos's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
