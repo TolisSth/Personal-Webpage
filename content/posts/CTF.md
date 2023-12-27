@@ -11,7 +11,7 @@ externalLink = ""
 series = []
 +++
 # I got a challenge for you. 
-Hey you, I got a challenge for you. On me at all times that I am out of my house I carry an unencrypted USB stick with me. That USB stick contains a file, a very particular and interesting file, that file is called `flag.md`, that files contains a very large alphanumeric value, a value that has the size of 256 characters. Ofcourse all of my computer scientist readers will probably have drawn out the conclusion that I am describing a CTF and yes, that is what I am doing. 
+Hey you, I got a challenge for you. On me at all times that I am out of my house I carry an unencrypted USB stick with me. That USB stick contains a file, a very particular and interesting file, that file is called `flag.md`, that files contains a very large alphanumeric value, a value that has the size of 64 characters. Ofcourse all of my computer scientist readers will probably have drawn out the conclusion that I am describing a CTF and yes, that is what I am doing. 
 
 ### Find me and Capture The Flag(.md)
 
@@ -25,5 +25,5 @@ If I caught your attention please try to find out more about the subject, becaus
 ### So is there a flag, or it was just thinking material? 
 Yeah, there is a USB stick and there is a flag.md on that stick, but please if you really want to take this seriously come to me and ask me politely to give you access to the flag.md and don't try to steal it from me, I was just trying to convey a thought here.
 
-### Why a 256 character alphanumeric
-Well, if you are asking that I can already tell that you are not majoring in CS. It's the key to decrypt a phrase that is encrypted with algorithms like SHA or AES etc. Here, there is not message, this is a rushed article just to make you think, I just generated a value and placed it on a USB that happens to carry with me. 
+### Why a 64 character alphanumeric
+Well, if you are asking that I can already tell that you are not majoring in CS. It's the key to decrypt a phrase (or anything) that is encrypted with algorithms like SHA or AES etc. Here, there is not message, this is a rushed article just to make you think, I just generated a value and placed it on a USB that happens to carry with me. 
