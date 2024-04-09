@@ -1,6 +1,6 @@
 baseURL = 'https://tolissth.github.io/Personal-Webpage/'
 languageCode = 'en-us'
-title = 'Tolisdev'
+title = 'Tolis'
 theme = 'hugo-coder'
 #lol
 paginate = 20
@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-  author = "Apostolos Halis"
+  author = "Apostolos Chalis"
   info = "I like computers (a lot)"
   description = "Apostolos's personal website"
   keywords = "blog,developer,personal"
@@ -23,7 +23,7 @@ disqusShortname = "yourdiscussshortname"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2023
+  since = 2021
 
   enableTwemoji = true
 
