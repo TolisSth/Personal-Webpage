@@ -1,6 +1,6 @@
 baseURL = 'https://tolissth.github.io/Personal-Webpage/'
 languageCode = 'en-us'
-title = 'Tolis'
+title = 'Ch@lis'
 theme = 'hugo-coder'
 #lol
 paginate = 20

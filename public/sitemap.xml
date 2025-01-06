@@ -2,14 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tolissth.github.io/Personal-Webpage/authors/</loc>
+    <loc>http://localhost:1313/Personal-Webpage/posts/ctf/</loc>
+    <lastmod>2023-12-27T19:59:52+02:00</lastmod>
   </url><url>
-    <loc>https://tolissth.github.io/Personal-Webpage/categories/</loc>
+    <loc>http://localhost:1313/Personal-Webpage/posts/</loc>
+    <lastmod>2023-12-27T19:59:52+02:00</lastmod>
   </url><url>
-    <loc>https://tolissth.github.io/Personal-Webpage/series/</loc>
+    <loc>http://localhost:1313/Personal-Webpage/</loc>
+    <lastmod>2023-12-27T19:59:52+02:00</lastmod>
   </url><url>
-    <loc>https://tolissth.github.io/Personal-Webpage/tags/</loc>
+    <loc>http://localhost:1313/Personal-Webpage/projects/</loc>
+    <lastmod>2023-10-19T16:06:20+03:00</lastmod>
   </url><url>
-    <loc>https://tolissth.github.io/Personal-Webpage/</loc>
+    <loc>http://localhost:1313/Personal-Webpage/projects/python-temperature-conversions/</loc>
+    <lastmod>2023-10-19T16:06:20+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Personal-Webpage/projects/jit-crowd-emulator/</loc>
+    <lastmod>2023-10-18T15:38:28+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Personal-Webpage/posts/elo-ratings-and-algorithms/</loc>
+    <lastmod>2023-02-01T10:21:07+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Personal-Webpage/projects/temperature-conversions/</loc>
+    <lastmod>2023-01-28T17:56:28+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Personal-Webpage/projects/siv/</loc>
+    <lastmod>2023-01-28T17:56:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Personal-Webpage/projects/das/</loc>
+    <lastmod>2023-01-28T17:40:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Personal-Webpage/posts/first/</loc>
+    <lastmod>2023-01-28T17:01:01+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Personal-Webpage/authors/</loc>
+  </url><url>
+    <loc>http://localhost:1313/Personal-Webpage/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/Personal-Webpage/series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/Personal-Webpage/tags/</loc>
   </url>
 </urlset>

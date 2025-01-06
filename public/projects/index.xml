@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tolis</title>
-    <link>http://localhost:1313/Personal-Webpage/</link>
-    <description>Recent content on Tolis</description>
+    <title>Projects on Tolis</title>
+    <link>http://localhost:1313/Personal-Webpage/projects/</link>
+    <description>Recent content in Projects on Tolis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Dec 2023 19:59:52 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/Personal-Webpage/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A CTF for everybody</title>
-      <link>http://localhost:1313/Personal-Webpage/posts/ctf/</link>
-      <pubDate>Wed, 27 Dec 2023 19:59:52 +0200</pubDate>
-      <guid>http://localhost:1313/Personal-Webpage/posts/ctf/</guid>
-      <description>I got a challenge for you. Hey you, I got a challenge for you. On me at all times that I am out of my house I carry an unencrypted USB stick with me. That USB stick contains a file, a very particular and interesting file, that file is called flag.md, that files contains a very large alphanumeric value, a value that has the size of 64 characters. Ofcourse all of my computer scientist readers will probably have drawn out the conclusion that I am describing a CTF and yes, that is what I am doing.</description>
-    </item>
+    <lastBuildDate>Thu, 19 Oct 2023 16:06:20 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/Personal-Webpage/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python Temperature Conversions</title>
       <link>http://localhost:1313/Personal-Webpage/projects/python-temperature-conversions/</link>
@@ -28,13 +21,6 @@
       <pubDate>Wed, 18 Oct 2023 15:38:28 +0300</pubDate>
       <guid>http://localhost:1313/Personal-Webpage/projects/jit-crowd-emulator/</guid>
       <description>What is this? Jit Crowd Emulator is a python script that utilizes the Selenium browser automation suite to create an artificial crowd in your Jit.si meeting.&#xA;What are the capabilities of the artificial crowd? This crowd can:&#xA;Join meetings (even password protected ones). React using the Jit.si default reactions. Admit or reject other members from the lobby. The third item in the list gives this script a moderator bot attribute.</description>
-    </item>
-    <item>
-      <title>Elo rating and algorithms</title>
-      <link>http://localhost:1313/Personal-Webpage/posts/elo-ratings-and-algorithms/</link>
-      <pubDate>Wed, 01 Feb 2023 10:21:07 +0200</pubDate>
-      <guid>http://localhost:1313/Personal-Webpage/posts/elo-ratings-and-algorithms/</guid>
-      <description>A reasonable question&amp;hellip; So you won, you won a 27 move game with an extraordinary checkmate, your opponent is devastated, your ego is inflating and your elo is rising. Elo? Who made up that weird name? Why is your rating system called like that? If you are thinking these questions, all I can say is that I was in the same place as you. Turns out, Elo was a real person, Elo or Arpad Emmerich Elo was a Hungarian-American physics professor with a soft spot for chess, like you and me.</description>
     </item>
     <item>
       <title>Temperature Conversions</title>
@@ -56,13 +42,6 @@
       <pubDate>Sat, 28 Jan 2023 17:40:44 +0200</pubDate>
       <guid>http://localhost:1313/Personal-Webpage/projects/das/</guid>
       <description>Development Assistant Script or else DAS is a simple script that will help YOU the developer download a variety of tools for the language that you develop on, much easier and faster. These tools will be a compiler or interpeter (depends on the language) and an editor or a full blown IDE in some cases.&#xA;This script was showcased by me, at an event that took place on 18/01/2023 on the AUTH campus, called &amp;ldquo;Εισαγωγή στα Linux και στο ανοικτό λογισμικό&amp;rdquo;, organized by me and members of the ACM AUTH Student Chapter and supported by two professor of the department of informatics of AUTH.</description>
-    </item>
-    <item>
-      <title>First</title>
-      <link>http://localhost:1313/Personal-Webpage/posts/first/</link>
-      <pubDate>Sat, 28 Jan 2023 17:01:01 +0200</pubDate>
-      <guid>http://localhost:1313/Personal-Webpage/posts/first/</guid>
-      <description>This is my first blog on this new site, I welcome you, sit by me and watch me create this site from the ground up. Well not exactly from the ground, since I am receiving great amounts of help from my friend Hugo. Who is Hugo you may ask&amp;hellip;well Hugo is this great tiny framework built in go that creates stunning websites in no time. Oh would you look at the time, I already finished building my website, this whole thing took me two hours and I am saying that just to point out how rapid is the development process with a tool like this one.</description>
     </item>
   </channel>
 </rss>
